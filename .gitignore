@@ -1,0 +1,27 @@
+# Environment
+.env
+.venv/
+venv/
+
+# uv
+# (uv.lock is intentionally NOT ignored - keep it committed for reproducible installs)
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# Project data/logs (raw session data, generated pickles, log files)
+data/*
+!data/.gitkeep
+logs/*
+!logs/.gitkeep
+
+# OS
+.DS_Store

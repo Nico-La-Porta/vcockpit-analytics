@@ -1,0 +1,16 @@
+{
+    "WINDSCREEN": 1,
+    "BUILDING": 2,
+    "CAR": 3, 
+    "COCKPIT": 4,
+    "DOOR":5,
+    "LEFT_MIRROR":6,
+    "REARVIEW_MIRROR":7,
+    "RIGHT_MIRROR":8, 
+    "ROAD":9, 
+    "SCREEN_SCREEN_000":10, 
+    "SCREEN_SCREEN_001":11, 
+    "SKYBOX":12, 
+    "STEERING_WHEEL":13, 
+    "TABLET":14
+}

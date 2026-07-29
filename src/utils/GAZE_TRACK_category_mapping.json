@@ -1,0 +1,9 @@
+{
+    "SCREEN": -1,
+    "WINDSCREEN": 1,
+    "WINDOW": -1,
+    "LEFT_MIRROR": -1,
+    "RIGHT_MIRROR": -1,
+    "REARVIEW_MIRROR": -1,
+    "INSIDE_CAR": -1
+}

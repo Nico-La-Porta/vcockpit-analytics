@@ -1,0 +1,19 @@
+taskIDs:
+  - ReachInitialSpeed
+  - Call_0
+  - Stop_Call_0
+  - Call_1
+  - Stop_Call_1
+  - Call_2
+  - Stop_Call_2
+  - Follow_3
+  - Play_0
+  - Play_1
+  - Play_2
+  - TimeoutTask
+  - Reach30KM
+  - Maintain30
+  - Reach50KM
+  - Maintain50
+  - Reach31KM
+  - Maintain31
